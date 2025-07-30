@@ -1,16 +1,27 @@
-# stitchwise
+# StitchWise 🧵
 
-A new Flutter project.
+A mobile application for tailors and small fashion businesses to manage:
 
-## Getting Started
+- 📦 Inventory
+- 🧮 Costing & pricing
+- 👗 Customer orders
 
-This project is a starting point for a Flutter application.
+Built with **Flutter** and **Dart** during my PLP Academy scholarship.
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## 🚀 Features
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+- Add and manage inventory items
+- Track customer orders
+- Fabric costing system
+
+## 🔧 Tech Stack
+
+- Flutter
+- Dart
+- SharedPreferences (for local storage)
+
+## 🛠️ Developed by
+
+Adetunde “Blake” Ogidan  
+[@blakefire07](https://github.com/blakefire07)
